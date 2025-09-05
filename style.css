@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f2f2f2;
+}
+
+header {
+  background-color: #004d40;
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+.rates table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.rates th, .rates td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+}
+
+.rates th {
+  background-color: #00796b;
+  color: white;
+}
+
+.contact {
+  margin-top: 40px;
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  background-color: #004d40;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
